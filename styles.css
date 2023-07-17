@@ -1,0 +1,21 @@
+body{
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    margin: 20px;
+}
+
+h1{
+    color: rgb(82, 119, 233);
+}
+
+.title{
+    color: rgb(82, 119, 233);
+}
+
+footer{
+    font-size: x-small;
+    margin-top: 10px;
+}
